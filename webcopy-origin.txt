@@ -1,0 +1,32 @@
+Uri: https://www.flightofox.ca/Content/Assets/images/CallIcon.png
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\Content\Assets\images\CallIcon.png
+Content Type: image/png
+
+Uri: https://www.flightofox.ca/Content/Assets/images/call_ringing.gif
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\Content\Assets\images\call_ringing.gif
+Content Type: image/gif
+
+Uri: https://www.flightofox.ca/Content/Assets/images/delta-logo-white.svg
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\Content\Assets\images\delta-logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://www.flightofox.ca/Content/Assets/images/delta-logo.png
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\Content\Assets\images\delta-logo.png
+Content Type: image/png
+
+Uri: https://www.flightofox.ca/Content/Assets/images/deltabanner.png
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\Content\Assets\images\deltabanner.png
+Content Type: image/png
+
+Uri: https://www.flightofox.ca/Content/Assets/images/phoneRotate.png
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\Content\Assets\images\phoneRotate.png
+Content Type: image/png
+
+Uri: https://www.flightofox.ca/deltaone-reservation
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\deltaone-reservation.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-10967932186
+File Name: C:\Downloaded Web Sites\www.flightofox.ca\gtag\js
+Content Type: application/javascript
+
